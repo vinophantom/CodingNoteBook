@@ -1,0 +1,7 @@
+1.忽略大小写提示
+
+setting --> code completion --> Case sensitive completion 改为none
+
+2.导入eclipse快捷键
+
+

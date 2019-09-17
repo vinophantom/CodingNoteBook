@@ -1,0 +1,68 @@
+Ø Top #10切来切去：Ctrl+Tab
+
+Ø Top #9选你所想：Ctrl+W
+
+Ø Top #8代码生成：Template/Postfix +Tab
+
+Ø Top #7发号施令：Ctrl+Shift+A
+
+Ø Top #6无处藏身：Shift+Shift
+
+Ø Top #5自动完成：Ctrl+Shift+Enter
+
+Ø Top #4创造万物：Alt+Insert
+
+太难割舍，前三名并列吧！
+
+Ø Top #1智能补全：Ctrl+Shift+Space
+
+Ø Top #1自我修复：Alt+Enter
+
+Ø Top #1重构一切：Ctrl+Shift+Alt+T
+
+
+
+
+
+1.alt + enter 警告或错误解决方案
+
+2.Ctrl + Alt + L 格式化代码
+
+3.Shift + F6 重命名文件
+
+4.Ctrl + Shift + Alt + S Project Structure
+
+5.Ctrl + Alt + S Setting 
+
+6.Ctrl + F9 Build Project
+
+7.Ctrl + F10 Run
+
+8.Ctrl + Alt + T 加Try..catch等
+
+9.Alt + Insert Genarate 加构造器,getter setter
+
+10.Alt + 7 显示代码结构
+   Ctrl + F12 显示代码所有方法
+   Ctrl + H 显示类继承关系
+
+11.Alt + Shift + Up/Down 移动整行代码
+
+12.Ctrl + Y 删除一行代码
+
+13.Ctrl + Shift + Alt + T 重构
+
+14.Ctrl + Shift + F 全局搜索
+   Ctrl + R 查找并替换
+
+15.Ctrl + W 选中当前范围
+
+16.Ctrl + [/] 移动光标到前/后代码块
+
+17.Ctrl + Shift + A 显示所有指令
+
+18.Ctrl + E 打开最近的文件
+
+19.
+
+

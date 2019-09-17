@@ -1,0 +1,4 @@
+Ctrl + Shift + L  Quick Text Search
+
+Ctrl + Shift + X  选中转换成大写
+Ctrl + Shift + Y  选中转换成小写
