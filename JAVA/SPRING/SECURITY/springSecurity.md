@@ -57,7 +57,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
 ## 核心组件
 
-![SpringSecurityUML](img\SpringSecurityUML.jpg)
+![SpringSecurityUML](./img/SpringSecurityUML.jpg)
 
 ### WebSecurityConfiguration 
 
@@ -305,13 +305,13 @@ csrf 又称跨域请求伪造，攻击方通过伪造用户请求访问受信任
 
 
 
-![UsernamePassword验证流程](img\UsernamePassword验证流程.jpg)
+![UsernamePassword验证流程](./img/UsernamePassword验证流程.jpg)
 
 其父类``` AbstractAuthenticationProcessingFilter``` 内部有两个默认Handler——```AuthenticationSuccessHandler```、```AuthenticationFailureHandler```。我们可以重新实现这两个 ```Handler``` 以适应业务需要。
 
 
 
-![ProviderManagerUML](img\ProviderManagerUML.png)
+![ProviderManagerUML](./img/ProviderManagerUML.png)
 
 另外，上面提到可以通过自定义一个继承```AbstractAuthenticationProcessingFilter``` 的类来重新实现身份认证逻辑，由于其内部使用了***委托模式***，使用```ProviderManager```来管理多个 ```provider```，不同的```provider```提供了不同的认证形式，默认只需要通过一个 ```provider``` 的认证，即可通过身份认证。其中的```provider```就是我们可以修改或者重新实现的内容。
 
@@ -329,7 +329,7 @@ csrf 又称跨域请求伪造，攻击方通过伪造用户请求访问受信任
 
 执行流程如下：
 
-![FilterInterceptor时序图](img\FilterSecurityInterceptor时序图.png)
+![FilterInterceptor时序图](./img/FilterSecurityInterceptor时序图.png)
 
 
 
